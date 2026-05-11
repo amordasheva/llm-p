@@ -1,0 +1,6 @@
+.venv/
+.env
+app.db
+__pycache__/
+*.pyc
+.ruff_cache/
